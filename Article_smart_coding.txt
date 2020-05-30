@@ -1,0 +1,1 @@
+1) always look for corner cases in your programe; try to solve it first. 
