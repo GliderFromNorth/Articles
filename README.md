@@ -1,2 +1,2 @@
 # Articles
-Few Articles i for Blogs. 
+Few Articles I wrote for Blogs. 
